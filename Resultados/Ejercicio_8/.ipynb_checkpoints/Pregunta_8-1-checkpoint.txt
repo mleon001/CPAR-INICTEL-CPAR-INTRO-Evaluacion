@@ -4,20 +4,20 @@ u196571@s001-n063:~/cpar_evaluacion$ git status
 On branch main
 Your branch is up to date with 'origin/main'.
 
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   Resultados/Ejercicio_8/.ipynb_checkpoints/Pregunta_8-1-checkpoint.txt
+        modified:   Resultados/Ejercicio_8/Pregunta_8-1.txt
+
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
   (commit or discard the untracked or modified content in submodules)
         modified:   oneAPI-samples (modified content, untracked content)
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-        Resultados/Ejercicio_8/
-
-no changes added to commit (use "git add" and/or "git commit -a")
 u196571@s001-n063:~/cpar_evaluacion$ git add .
-u196571@s001-n063:~/cpar_evaluacion$ git commit -m "Resolviendo Ejercicio 8"
-[main 241d34f] Resolviendo Ejercicio 8
+u196571@s001-n063:~/cpar_evaluacion$ git commit -m "Ejercicio 8: Correccion de output"
+[main 8b2472d] Ejercicio 8: Correccion de output
  Committer: u196571 <u196571@s001-n063.aidevcloud>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
@@ -31,26 +31,22 @@ After doing this, you may fix the identity used for this commit with:
 
     git commit --amend --reset-author
 
- 2 files changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 Resultados/Ejercicio_8/.ipynb_checkpoints/Pregunta_8-1-checkpoint.txt
- create mode 100644 Resultados/Ejercicio_8/Pregunta_8-1.txt
+ 2 files changed, 112 insertions(+)
 u196571@s001-n063:~/cpar_evaluacion$ git push
 Username for 'https://github.com': mleon001
 Password for 'https://mleon001@github.com': 
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/mleon001/CPAR-INICTEL-CPAR-INTRO-Evaluacion.git/'
-u196571@s001-n063:~/cpar_evaluacion$ 
-u196571@s001-n063:~/cpar_evaluacion$ git push
-Username for 'https://github.com': mleon001
-Password for 'https://mleon001@github.com': 
-Enumerating objects: 7, done.
-Counting objects: 100% (7/7), done.
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
 Delta compression using up to 24 threads
-Compressing objects: 100% (5/5), done.
-Writing objects: 100% (5/5), 524 bytes | 524.00 KiB/s, done.
-Total 5 (delta 1), reused 0 (delta 0)
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 1.63 KiB | 555.00 KiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0)
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/mleon001/CPAR-INICTEL-CPAR-INTRO-Evaluacion.git
-   fbc7d97..241d34f  main -> main
+   241d34f..8b2472d  main -> main
 u196571@s001-n063:~/cpar_evaluacion$ 
+
+
+
+NOTA: Ya se habia creado el repositorio antes de resolver los ejecicios. Para sincronizar el comando se uso
+git remote add origin https://github.com/mleon001/CPAR-INICTEL-CPAR-INTRO-Evaluacion.git
