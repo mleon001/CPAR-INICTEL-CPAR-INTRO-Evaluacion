@@ -1,0 +1,7 @@
+u196571@s001-n064:~/cpar_evaluacion$ ls
+oneAPI-samples  Resultados
+u196571@s001-n064:~/cpar_evaluacion$ cd oneAPI-samples/
+u196571@s001-n064:~/cpar_evaluacion/oneAPI-samples$ ls
+AI-and-Analytics  CONTRIBUTING.md    Libraries    Publications  release.json      SECURITY.md  third-party-programs.txt
+common            DirectProgramming  License.txt  README.md     RenderingToolkit  Templates    Tools
+u196571@s001-n064:~/cpar_evaluacion/oneAPI-samples$ 
