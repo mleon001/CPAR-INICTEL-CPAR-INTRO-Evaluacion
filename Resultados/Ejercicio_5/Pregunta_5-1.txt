@@ -1,0 +1,3 @@
+u196571@s001-n064:~/cpar_evaluacion/oneAPI-samples/DirectProgramming/C++SYCL/DenseLinearAlgebra/matrix_mul/src$ make build_omp
+make: *** No rule to make target 'build_omp'.  Stop.
+u196571@s001-n064:~/cpar_evaluacion/oneAPI-samples/DirectProgramming/C++SYCL/DenseLinearAlgebra/matrix_mul/src$ 

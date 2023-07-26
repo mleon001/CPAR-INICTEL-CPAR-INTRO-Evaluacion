@@ -1,0 +1,2 @@
+- Paralelismo a nivel de datos
+- Paralelismo a nivel de tareas

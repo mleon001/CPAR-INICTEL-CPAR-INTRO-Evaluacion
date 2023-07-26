@@ -1,0 +1,2 @@
+Es un indice de medida para saber que tanto se optimizó un programa al compararlo con una versión mejorada ya sea en arquitectura o software.
+Se calcula con la división del tiempo de ejecución del programa optimizado con el anterior.

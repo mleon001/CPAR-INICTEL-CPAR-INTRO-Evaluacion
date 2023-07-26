@@ -1,0 +1,6 @@
+Son 3:
+
+- La zona donde se tienen los archivos: carpeta del proyecto.
+- La zona de monitoreo (tracking).
+- repositorio: donde se almacena la informacion de los cambios.
+

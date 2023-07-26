@@ -1,0 +1,2 @@
+u196571@s001-n063:~/cpar_evaluacion/Resultados/Ejercicio_6$ ls
+run_a.sh  run_a.sh.e2348557  run_a.sh.o2348557

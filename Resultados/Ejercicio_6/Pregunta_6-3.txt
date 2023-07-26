@@ -1,0 +1,23 @@
+u196571@s001-n063:~/cpar_evaluacion/Resultados/Ejercicio_6$ cat run_a.sh.e2348557 
+/var/spool/torque/mom_priv/jobs/2348557.v-qsvr-1.aidevcloud.SC: line 8: ./matrix_mul_omp: No such file or directory
+u196571@s001-n063:~/cpar_evaluacion/Resultados/Ejercicio_6$ cat run_a.sh.o2348557 
+
+########################################################################
+#      Date:           Wed 26 Jul 2023 01:45:04 PM PDT
+#    Job ID:           2348557.v-qsvr-1.aidevcloud
+#      User:           u196571
+# Resources:           cput=75:00:00,neednodes=1:xeon:ppn=2,nodes=1:xeon:ppn=2,walltime=06:00:00
+########################################################################
+
+
+start: 230726.134510.325
+
+
+stop: 230726.134510.338
+
+########################################################################
+# End of output for job 2348557.v-qsvr-1.aidevcloud
+# Date: Wed 26 Jul 2023 01:45:10 PM PDT
+########################################################################
+
+u196571@s001-n063:~/cpar_evaluacion/Resultados/Ejercicio_6$ 
