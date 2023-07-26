@@ -1,0 +1,4 @@
+u196571@s001-n064:~/cpar_evaluacion/oneAPI-samples$ cd DirectProgramming/C++SYCL/DenseLinearAlgebra/matrix_mul
+u196571@s001-n064:~/cpar_evaluacion/oneAPI-samples/DirectProgramming/C++SYCL/DenseLinearAlgebra/matrix_mul$ ls
+build_omp.sh  build.sh  License.txt  Makefile  Makefile.win  matrix_mul_dpcpp.vcxproj  matrix_mul.sln  README.md  run_omp.sh  run.sh  sample.json  src  third-party-programs.txt
+u196571@s001-n064:~/cpar_evaluacion/oneAPI-samples/DirectProgramming/C++SYCL/DenseLinearAlgebra/matrix_mul$ 

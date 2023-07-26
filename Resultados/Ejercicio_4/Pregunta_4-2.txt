@@ -1,0 +1,1 @@
+Compara diferencias del archivo modificado. Muestra las líneas que se eliminaron (-) y las que se agregaron (+)
