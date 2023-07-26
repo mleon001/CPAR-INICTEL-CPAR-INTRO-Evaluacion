@@ -1,0 +1,13 @@
+u196571@s001-n064:~$ mkdir cpar_evaluacion
+u196571@s001-n064:~$ cd cpar_evaluacion/
+u196571@s001-n064:~/cpar_evaluacion$ git clone https://github.com/oneapi-src/oneAPI-samples.git
+Cloning into 'oneAPI-samples'...
+remote: Enumerating objects: 30303, done.
+remote: Counting objects: 100% (1121/1121), done.
+remote: Compressing objects: 100% (499/499), done.
+remote: Total 30303 (delta 611), reused 1061 (delta 593), pack-reused 29182
+Receiving objects: 100% (30303/30303), 361.26 MiB | 3.67 MiB/s, done.
+Resolving deltas: 100% (19636/19636), done.
+Updating files: 100% (4727/4727), done.
+u196571@s001-n064:~/cpar_evaluacion$ ls
+oneAPI-samples
